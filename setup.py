@@ -31,6 +31,6 @@ setup(
         "batchgeneratorsv2>=0.2",
         "einops",
         "blosc2>=3.0.0b1",
-        "dynamic-network-architectures @ git+https://github.com/MIC-DKFZ/dynamic-network-architectures.git@master"
+        "dynamic-network-architectures @ git+https://github.com/MIC-DKFZ/dynamic-network-architectures.git"
     ]
 )
