@@ -10,15 +10,5 @@ setup(
     python_requires='>=3.9',
     install_requires=[
         "acvl-utils>=0.2,<0.3",
-        "dynamic-network-architectures>=0.3.1,<0.4",
-        "batchgenerators>=0.25",
-        "batchgeneratorsv2>=0.2",
-        "yacs",
-        "einops",
-        "dicom2nifti",
-        "imagecodecs",
-        "graphviz",
-        "tifffile",
-        "seaborn"
     ]
 )
