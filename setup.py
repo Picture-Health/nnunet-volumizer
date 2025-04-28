@@ -5,7 +5,7 @@ setup(
     version='2.5.1',
     description='nnU-Net v2 - Patched for proper packaging',
     author='Rushil Nagabhushan',
-    url='https://github.com/Picture-Health/nnUNet-lambda',
+    url='https://github.com/Picture-Health/nnunet-volumizer',
     packages=find_packages(),
     python_requires='>=3.9',
     install_requires=[
