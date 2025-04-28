@@ -11,7 +11,6 @@ setup(
     install_requires=[
         "torch>=2.1.2",
         "acvl-utils>=0.2.3,<0.3",
-        "dynamic-network-architectures>=0.3.1,<0.4",
         "tqdm",
         "dicom2nifti",
         "scipy",
@@ -31,6 +30,7 @@ setup(
         "yacs",
         "batchgeneratorsv2>=0.2",
         "einops",
-        "blosc2>=3.0.0b1"
+        "blosc2>=3.0.0b1",
+        "dynamic-network-architectures @ git+https://github.com/MIC-DKFZ/dynamic-network-architectures.git@master"
     ]
 )
