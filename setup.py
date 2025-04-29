@@ -28,9 +28,11 @@ setup(
         "seaborn",
         "imagecodecs",
         "yacs",
-        # "batchgeneratorsv2 @ git+https://github.com/MIC-DKFZ/batchgeneratorsv2.git",
         "einops",
         "blosc2>=3.0.0b1",
-        "dynamic-network-architectures @ git+https://github.com/MIC-DKFZ/dynamic-network-architectures.git"
+        "dynamic-network-architectures",
+        "batchgeneratorsv2",
+        # "dynamic-network-architectures @ git+https://github.com/MIC-DKFZ/dynamic-network-architectures.git",
+        # "batchgeneratorsv2 @ git+https://github.com/MIC-DKFZ/batchgeneratorsv2.git",
     ]
 )
