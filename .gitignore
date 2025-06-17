@@ -114,5 +114,7 @@ ENV/
 
 !documentation/assets/scribble_example.png
 
+venv/*
+venv/
 .venv/*
 .venv
