@@ -29,7 +29,7 @@ setup(
         "imagecodecs",
         "yacs",
         "einops",
-        "blosc2>=3.0.0b1",
+        "blosc2>=2.5.1",
         "dynamic-network-architectures",
         # "batchgeneratorsv2",
         # "dynamic-network-architectures @ git+https://github.com/MIC-DKFZ/dynamic-network-architectures.git",

@@ -1,0 +1,1 @@
+nnunetv2 @ git+https://github.com/Picture-Health/nnunet-volumizer.git@v2.5.1-patched#egg=nnunetv2
